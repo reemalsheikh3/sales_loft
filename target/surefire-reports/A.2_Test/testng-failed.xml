@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" verbose="0" name="Failed suite [A.2_Test]">
+  <test thread-count="5" verbose="0" name="Critical Functionalities(failed)">
+    <classes>
+      <class name="scripts.AmazonTest">
+        <methods>
+          <include name="setup"/>
+          <include name="testAmazonSearchFail"/>
+          <include name="teardown"/>
+        </methods>
+      </class> <!-- scripts.AmazonTest -->
+    </classes>
+  </test> <!-- Critical Functionalities(failed) -->
+</suite> <!-- Failed suite [A.2_Test] -->

@@ -1,0 +1,10 @@
+utilities/Driver.class
+pages/ChosenItemPage.class
+pages/AmazonHomePage.class
+utilities/ConfigReader.class
+pages/ShoppingCart.class
+pages/ItemsAddedToCartPage.class
+utilities/Waiter.class
+scripts/Base.class
+scripts/AmazonTest.class
+pages/MagnifyingGlassSearchPage.class
